@@ -2,7 +2,7 @@
 Bet by transferring EOS to account 'beteoswinall' with memo. <br>
 Memo consist of two parts splitted by '-', the first part is id of the game and the second part is your bet side. <br>
 Home team name with '+' or '-' follow by number is handicapping and rate(win, draw, lost) is dynamic.<br>
-Rejected bet will be refunded and column hash is emply. <br>
+Rejected bet will be refunded and column hash is empty. <br>
 Explore onchain contract data for lastest game detail. <br>
 For example visit https://www.eosx.io/account/beteoswinall?mode=contract&sub=tables&table=matchtable or https://www.bloks.io/account/beteoswinall?loadContract=true&tab=Tables&table=matchtable for detail.<br>
 <br>
