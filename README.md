@@ -12,3 +12,6 @@ For example visit https://www.eosx.io/account/beteoswinall?mode=contract&sub=tab
 未成功收单的下注hash字段为空且会在比赛开始十分钟内退款。<br>
 最新的场次与赔率通过各大浏览网站查看链上合约数据获取。<br>
 如访问 https://www.eosx.io/account/beteoswinall?mode=contract&sub=tables&table=matchtable ，<br> https://eos.eosq.eosnation.io/account/beteoswinall/tables?scope=beteoswinall&tableName=matchtable <br> 或者 https://www.bloks.io/account/beteoswinall?loadContract=true&tab=Tables&table=matchtable 。<br>
+
+
+![send](https://user-images.githubusercontent.com/101385969/160788366-74c08b30-8f6b-4dc8-98d5-e4a8bf81cd7b.png)
